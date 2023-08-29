@@ -17,6 +17,12 @@ RUN sudo apt-get update && sudo apt-get install -y vim
 
 Or run them in the container to make temporary changes.
 
+## Use docker-compose
+
+If you like `docker-compose` than native docker, refer the following doc!
+
+[USE_DOCKER_COMPOSE](USE_DOCKER_COMPOSE.md)
+
 ## A more complete docker container
 
 If you want to use a complete docker container which contains many useful tools, you can check my development environment [Dockerfile](https://github.com/L1aoXingyu/fastreid_docker)

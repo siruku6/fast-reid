@@ -35,3 +35,11 @@ model_ts*.txt
 .vscode
 _darcs
 .DS_Store
+
+
+# Compiled files with cython
+fastreid/evaluation/rank_cylib/*.c
+
+
+# datasets
+datasets/
